@@ -43,6 +43,14 @@ const Header = () => {
           >
             Blog
           </Link>
+          <Link href="/carrito">
+            <Image
+              src="/img/carrito.png"
+              alt="imagen carrito"
+              width={25}
+              height={25}
+            />
+          </Link>
         </nav>
       </div>
     </header>
